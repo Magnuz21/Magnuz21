@@ -1,5 +1,5 @@
 <div align="center">
-<img align="top" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="top" alt="Coding" width="800" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </div>  
 <!-- BLOG-POST-LIST:END -->  
 
