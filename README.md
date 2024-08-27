@@ -8,9 +8,9 @@
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magnuz21&label=Profile%20views&color=0e75b6&style=flat" alt="magnuz21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=magnuz21&label=Profile%20views&color=0e75b6&style=flat" alt="Magnuz21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magnuz21" alt="magnuz21" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Magnuz21" alt="Magnuz21" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,11 +21,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Frondend Developer passionate about [Your Interests]. I love working on projects involving [Technologies/Skills]. Currently, I'm focused on [Current Focus].
+I'm a Frondend Developer passionate about [Your Interests]. I love working on projects involving Framework. Currently, I'm focused on Web Development.
 
-- 🌱 I’m currently learning: [Technology/Learning Focus]
-- 💼 Open to work on: [Type of Work or Projects]
-- ⚡ Fun fact: [Something Interesting About You]
+- 🌱 I’m currently learning: Flutter
+- 💼 Open to work on: Remote/Onsite/Hybrid
+- ⚡ Fun fact: Coffee is Life
 
 ## 🚀 Skills & Tools
 
