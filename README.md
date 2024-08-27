@@ -8,9 +8,9 @@
 <h1 align="center">Hi 👋, I'm Aldrin Abilar</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magnuz21&label=Profile%20views&color=0e75b6&style=flat" alt="magnuz21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=magnuz21&label=Profile%20views&color=0e75b6&style=flat" alt="Magnuz21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magnuz21" alt="magnuz21" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Magnuz21" alt="Magnuz21" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
