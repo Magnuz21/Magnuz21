@@ -8,8 +8,11 @@
 <h1 align="center">Hi 👋, I'm Aldrin</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 <br/>  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magnuz21&label=Profile%20views&color=0e75b6&style=flat" alt="Magnuz21" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Magnuz21" alt="Magnuz21" /></a> </p>
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Magnuz21&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnuz21&layout=compact&theme=radical)
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,9 +43,12 @@ I'm a Frondend Developer passionate about [Your Interests]. I love working on pr
 - **[Project 2](https://github.com/yourusername/project2)**: Brief description.
 - **[Project 3](https://github.com/yourusername/project3)**: Brief description.
 
-## 📊 GitHub Stats
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/Aldrin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Magnuz21" /></a></p><br><br>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Magnuz21&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnuz21&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magnuz21&show_icons=true&locale=en&layout=compact" alt="Magnuz21" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magnuz21&show_icons=true&locale=en" alt="Magnuz21" /></p>
+
 
 <br/>  
