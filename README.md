@@ -5,13 +5,12 @@
 
 <br/>  
 
-<h1 align="center">Hi 👋, I'm Aldrin Abilar</h1>
+<h1 align="center">Hi 👋, I'm Aldrin</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-
+<br/>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magnuz21&label=Profile%20views&color=0e75b6&style=flat" alt="Magnuz21" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Magnuz21" alt="Magnuz21" /></a> </p>
-
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/helllo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helllo" height="30" width="40" /></a>
@@ -43,13 +42,7 @@ I'm a Frondend Developer passionate about [Your Interests]. I love working on pr
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🏆 Achievements
-
-- 🥇 [Achievement 1]
-- 🏅 [Achievement 2]
-- 🎖️ [Achievement 3]
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Magnuz21&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnuz21&layout=compact&theme=radical)
 
 <br/>  
